@@ -1,0 +1,67 @@
+ #section1, #section3, #section5, #section7,.ddm{
+     background-color: #eaeaea;
+ }
+ #section1, #section7{
+     text-align: center;
+ }
+ #section1,.ubuntu{
+    font-family: 'Ubuntu', sans-serif;
+ }
+.section1_p{
+    font-size: 1.5rem;
+    margin-top: 5%;
+}
+.section1_col2{
+    margin-top: 2%;
+}
+ .container-fluid{
+    padding: 3% 15% 7%;
+} 
+.col_inside1{
+    padding:8% 15% 0;
+}
+ .my_img{
+    position: relative;
+    right: 130px;
+    width: 100px;
+    border-radius: 100%;
+}
+
+.name_h2{
+    position: relative;
+    font-size: 1rem;
+    left: 80px;
+    bottom: 60px;
+}
+.section2_col{
+    padding: 1%;
+    width:300%;
+    margin-right: auto;
+}
+.section2_fas{
+    margin-right:5%;
+}
+.section3_col{
+    padding: 3%;
+}
+.nunito{
+    font-family: 'Nunito', sans-serif;
+}
+.section5_col{
+    padding: 3%;
+}
+.section6_col{
+    padding: 2%;
+}
+#section7{
+    padding: 4%;
+}
+.section7_row{
+    margin-top: 3%;
+    padding: 2%;
+}
+.section7_navlink{
+    margin: 1%;
+}
+
+
